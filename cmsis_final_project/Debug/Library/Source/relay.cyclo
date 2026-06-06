@@ -1,7 +1,0 @@
-../Library/Source/relay.c:20:6:Relay_Init	1
-../Library/Source/relay.c:27:6:Relay_SetPump	2
-../Library/Source/relay.c:37:6:Relay_SetMist	2
-../Library/Source/relay.c:46:9:Relay_GetPumpState	1
-../Library/Source/relay.c:47:9:Relay_GetMistState	1
-../Library/Source/relay.c:49:6:Relay_TogglePump	1
-../Library/Source/relay.c:50:6:Relay_ToggleMist	1

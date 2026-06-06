@@ -1,6 +1,0 @@
-../Library/Source/control.c:37:6:Control_Init	8	static
-../Library/Source/control.c:45:6:Control_SetMode	16	static
-../Library/Source/control.c:55:13:Control_GetMode	4	static
-../Library/Source/control.c:60:6:Control_AutoUpdate	8	static
-../Library/Source/control.c:101:6:Control_ProcessCommand	16	static
-../Library/Source/control.c:145:6:Control_Process	56	static

@@ -1,9 +1,0 @@
-../Library/Source/delay.c:39:6:DWT_Init	8	static
-../Library/Source/delay.c:50:10:DWT_tick	4	static
-../Library/Source/delay.c:57:10:DWT_millis	8	static
-../Library/Source/delay.c:64:10:DWT_micros	8	static
-../Library/Source/delay.c:71:6:DWT_delay_ms	24	static
-../Library/Source/delay.c:80:6:DWT_delay_us	24	static
-../Library/Source/delay.c:89:9:DWT_nb_timeout	16	static
-../Library/Source/delay.c:96:6:DWT_nb_delay_ms	16	static
-../Library/Source/delay.c:104:6:DWT_nb_delay_us	16	static
