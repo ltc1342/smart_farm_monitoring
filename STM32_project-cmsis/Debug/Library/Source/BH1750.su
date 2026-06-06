@@ -1,0 +1,4 @@
+../Library/Source/BH1750.c:14:6:BH1750_Init	16	static
+../Library/Source/BH1750.c:27:6:BH1750_SendCommand	16	static
+../Library/Source/BH1750.c:35:10:BH1750_ReadMeasurement	16	static
+../Library/Source/BH1750.c:53:7:BH1750_ReadLux	24	static

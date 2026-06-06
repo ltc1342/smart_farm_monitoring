@@ -1,0 +1,15 @@
+D:/Personal/Studying/Embedded_Programming/STM32F411CEU6/STM32_project-cmsis/CMSIS/Core/Include/core_cm4.h:1794:22:__NVIC_EnableIRQ	16	static,ignoring_inline_asm
+D:/Personal/Studying/Embedded_Programming/STM32F411CEU6/STM32_project-cmsis/CMSIS/Core/Include/core_cm4.h:1924:22:__NVIC_SetPriority	16	static
+../Library/Source/USART.c:29:17:USART_GetAPBClock	24	static
+../Library/Source/USART.c:57:13:UART_ConfigPins	16	static
+../Library/Source/USART.c:76:6:UART_Init	32	static
+../Library/Source/USART.c:144:6:UART_Transmit_Byte	24	static
+../Library/Source/USART.c:161:6:UART_Transmit_Buffer	16	static
+../Library/Source/USART.c:172:6:UART_Receive_Byte	24	static
+../Library/Source/USART.c:193:9:UART_Available	16	static
+../Library/Source/USART.c:202:6:USART1_IRQHandler	4	static
+../Library/Source/USART.c:210:6:USART2_IRQHandler	4	static
+../Library/Source/USART.c:225:6:USART_Init	32	static
+../Library/Source/USART.c:281:6:USART_Transmit_Byte	24	static
+../Library/Source/USART.c:300:6:USART_Transmit_Buffer	16	static
+../Library/Source/USART.c:312:6:USART_Receive_Byte	24	static

@@ -1,0 +1,5 @@
+../Src/main.c:72:5:main	128	static
+../Src/main.c:126:9:SystemAPB1_Clock_Speed	4	static
+../Src/main.c:131:9:SystemAPB2_Clock_Speed	4	static
+../Src/main.c:136:6:MCU_Clock_Setup	16	static
+../Src/main.c:173:13:OLED_ShowLines	88	static

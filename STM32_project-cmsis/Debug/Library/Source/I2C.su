@@ -1,0 +1,15 @@
+../Library/Source/I2C.c:20:13:I2C_CalculateClockRegisters	32	static
+../Library/Source/I2C.c:48:6:I2C_Master_Init	16	static
+../Library/Source/I2C.c:92:5:I2C_Master_Start	24	static
+../Library/Source/I2C.c:109:5:I2C_Master_Address	40	static
+../Library/Source/I2C.c:143:5:I2C_Master_Send_Byte	32	static
+../Library/Source/I2C.c:164:5:I2C_Master_Send_Buffer	40	static
+../Library/Source/I2C.c:181:5:I2C_Master_Receive_Byte	24	static
+../Library/Source/I2C.c:197:5:I2C_Master_Receive_Buffer	48	static
+../Library/Source/I2C.c:229:6:I2C_Master_NACK	16	static
+../Library/Source/I2C.c:234:6:I2C_Master_ACK	16	static
+../Library/Source/I2C.c:239:6:I2C_Master_Stop	16	static
+../Library/Source/I2C.c:251:6:I2C_Master_Write_Register	32	static
+../Library/Source/I2C.c:264:5:I2C_Master_Read_Register	40	static
+../Library/Source/I2C.c:290:6:I2C_Master_Write_Register_bits	48	static
+../Library/Source/I2C.c:309:5:I2C_Master_Read_Register_bit	40	static
