@@ -1,0 +1,13 @@
+../CMSIS/RTOS2/FreeRTOS/Source/port.c:202:15:pxPortInitialiseStack	1
+../CMSIS/RTOS2/FreeRTOS/Source/port.c:234:13:prvTaskExitError	3
+../CMSIS/RTOS2/FreeRTOS/Source/port.c:260:6:SVC_Handler	1
+../CMSIS/RTOS2/FreeRTOS/Source/port.c:278:13:prvPortStartFirstTask	1
+../CMSIS/RTOS2/FreeRTOS/Source/port.c:305:12:xPortStartScheduler	9
+../CMSIS/RTOS2/FreeRTOS/Source/port.c:467:6:vPortEndScheduler	2
+../CMSIS/RTOS2/FreeRTOS/Source/port.c:475:6:vPortEnterCritical	3
+../CMSIS/RTOS2/FreeRTOS/Source/port.c:492:6:vPortExitCritical	3
+../CMSIS/RTOS2/FreeRTOS/Source/port.c:504:6:PendSV_Handler	1
+../CMSIS/RTOS2/FreeRTOS/Source/port.c:560:6:xPortSysTickHandler	2
+../CMSIS/RTOS2/FreeRTOS/Source/port.c:812:32:vPortSetupTimerInterrupt	1
+../CMSIS/RTOS2/FreeRTOS/Source/port.c:834:13:vPortEnableVFP	1
+../CMSIS/RTOS2/FreeRTOS/Source/port.c:851:10:vPortValidateInterruptPriority	4

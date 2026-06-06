@@ -1,0 +1,2 @@
+../Library/Source/ADC.c:53:6:ADC_Init	16	static
+../Library/Source/ADC.c:110:10:ADC_Read	16	static
